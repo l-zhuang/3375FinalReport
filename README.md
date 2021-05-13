@@ -2,4 +2,4 @@
 PROJECT Code
 
 Design of an Embedded System
-Stratospheric Balloons that Connect the World Together
+for Stratospheric Balloons that Connect the World Together
