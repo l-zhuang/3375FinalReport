@@ -1,7 +1,11 @@
 ﻿# ECE 3375B Microprocessors and Microcomputers
 PROJECT Code
 
-Project Design of an Embedded System
+Project Design of an Embedded System with embedded intelligence
+
+The project containes the following components:
+
+# Problem definition, functional description, I/O requirements, initial software design and prototyping plan
 
 Design Idea: Stratospheric Balloons that Connect the World Together
 
