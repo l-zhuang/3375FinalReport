@@ -2,7 +2,8 @@
 PROJECT Code
 
 Project Design of an Embedded System
-Problem Definition: Stratospheric Balloons that Connect the World Together
+
+Design Idea: Stratospheric Balloons that Connect the World Together
 
 # Main Functionality of the Software
 The software should read the data from the pressure and wind speed sensor and use this data
