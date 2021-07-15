@@ -1,8 +1,8 @@
 ﻿# ECE 3375B Microprocessors and Microcomputers
 PROJECT Code
 
-Design of an Embedded System
-for Stratospheric Balloons that Connect the World Together
+Project Design of an Embedded System
+Problem Definition: Stratospheric Balloons that Connect the World Together
 
 # Main Functionality of the Software
 The software should read the data from the pressure and wind speed sensor and use this data
